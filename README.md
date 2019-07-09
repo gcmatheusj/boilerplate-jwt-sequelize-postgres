@@ -1,12 +1,12 @@
 # BOILERPLATE-JWT-SEQUELIZE-POSTGRESQL
 
-Saving your time. =D
+Saving your time. :rocket:
 
 ## Getting Started
 
 - Clone this repo
 - \$ run `yarn` on root folder
-- \$ setup you network params
+- \$ setup your network params
 - \$ yarn start
 
 It may start the whole devlopment environment.
